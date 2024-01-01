@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Happy_New_Year {
+public class Happy_New_Year_Pattern {
     public static void main(String[] args) {
 
         DisplayHappYNew();
